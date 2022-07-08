@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 5a2f2f61-54fc-4088-9b9b-3d20d1add9f0
+      url: 'https://jj.quarto.pub/qpubs-gha/'
